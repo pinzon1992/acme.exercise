@@ -64,6 +64,6 @@ The code has the following estructure:
         - input_file.txt
     - acme.exercise.sln
     
-The console app needs to be executed from terminal, we need to be located in the directory where **acme.exercise.csproj** reside, once we are located in this directory, we could execute the following command:
-**dotnet run "input_file.txt"**
+The console app needs to be executed from terminal, we need to be located in the directory where **acme.exercise.csproj** reside, once we are located in this directory, we could execute the following command:\
+**dotnet run "input_file.txt"**\
 the argument "input_file.txt" is a reference for text file containing the data that are going to be processed, in this argument we can pass a full path of txt file, or if the file exists at the same directory we can pass only the name with the file extension
