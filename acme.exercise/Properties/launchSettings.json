@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "acme.exercise": {
+      "commandName": "Project"
+    }
+  }
+}
